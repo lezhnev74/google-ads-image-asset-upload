@@ -1,0 +1,13 @@
+{
+    "name": "dmitriylezhnev/instaon",
+    "authors": [
+        {
+            "name": "Dmitriy Lezhnev",
+            "email": "lezhnev.work@gmail.com"
+        }
+    ],
+    "require": {
+        "googleads/google-ads-php": "dev-master",
+        "vlucas/phpdotenv": "^4.1"
+    }
+}
